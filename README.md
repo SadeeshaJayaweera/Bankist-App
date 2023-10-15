@@ -34,3 +34,29 @@ To run the Bankist App locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/bankist-app.git
+
+
+   ## 📱 App Profiles
+
+You can access the app profiles with the following usernames and PINs:
+
+### Jonas Schmedtmann
+
+- 👤 Username: `Js`
+- 🔐 PIN: `1111`
+
+### Jessica Davis
+
+- 👤 Username: `Jd`
+- 🔐 PIN: `2222`
+
+### Steven Thomas Williams
+
+- 👤 Username: `st`
+- 🔐 PIN: `3333`
+
+### Sarah Smith
+
+- 👤 Username: `ss`
+- 🔐 PIN: `4444`
+
