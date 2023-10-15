@@ -1,6 +1,6 @@
 # 🏦 Bankist App
 
-![Bankist App Logo]
+<h3>Bankist App Preview </h3>
 <br>
 <img src = 'Bankist App Preview.png'>
 
