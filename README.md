@@ -1,6 +1,8 @@
 # 🏦 Bankist App
 
-![Bankist App Logo](link-to-your-logo.png)
+![Bankist App Logo]
+<br>
+<img src = 'Bankist App Preview.png'>
 
 Bankist App is a JavaScript-based banking application that I developed as part of the Jonas Schmedtmann's JavaScript course. It allows users to manage their accounts, perform various banking operations, and experience a seamless and secure online banking experience.
 
