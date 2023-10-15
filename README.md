@@ -16,7 +16,7 @@ Bankist App is a JavaScript-based banking application that I developed as part o
 
 ## Demo
 
-A live demo of the Bankist App can be found [here](insert-live-demo-link).
+A live demo of the Bankist App can be found [here](https://gentle-cobbler-211736.netlify.app/).
 
 Please note that the live demo may not show the console for security reasons.
 
