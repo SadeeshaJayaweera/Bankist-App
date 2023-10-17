@@ -42,9 +42,9 @@ To run the Bankist App locally, follow these steps:
 
 You can access the app profiles with the following usernames and PINs:
 
-### Jonas Schmedtmann
+### Sadeesha Jayaweera 
 
-- 👤 Username: `Js`
+- 👤 Username: `Sj`
 - 🔐 PIN: `1111`
 
 ### Jessica Davis
